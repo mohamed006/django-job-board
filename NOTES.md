@@ -1,0 +1,6 @@
+- apps to create :
+ - blog
+ - job
+ - accounts
+ - contact
+ - home
